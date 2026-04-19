@@ -1,3 +1,15 @@
+------
+🚨 Project Archived 🚨
+
+This repository has been archived and is no longer actively maintained.
+It was created as a experimental project to explore ideas and learn new concepts and never intended to serve as a production-ready.
+
+## Important Notes
+* This project is not actively maintained
+* Code contains experiments and quick prototypes
+* Do not consider this repository as an architecture reference
+* Do not use this as coding guideline or best practice example
+-----
 
 ## FrontEnd 
 * Android and IOS with #ComposeMultiplatform
